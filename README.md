@@ -1,2 +1,2 @@
 # TestGitHub
-Github tutorial edited
+Github tutorial
